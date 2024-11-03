@@ -45,7 +45,7 @@ changed:
 
 -------------------------------------------------------------------------
 ver 2.1
-	* bugfuxes
+	* bugfixes
 
 -------------------------------------------------------------------------
 ver 2.0
@@ -56,8 +56,8 @@ ver 2.0
 
 ver 1.8.2
 	* minor bugfixes
-	* improved compilation on FreeBSD & OpenBSD sysems.
-	* improved compilation on Sun Solaris systems .
+	* improved compilation on FreeBSD & OpenBSD systems.
+	* improved compilation on Sun Solaris systems.
 	* cross platform (UNIX) issues
 
 -------------------------------------------------------------------------
@@ -70,7 +70,7 @@ added:
 	* HTTP proxy auth basic
 	* Socks4 user auth
 	* Socks5 user/pass auth
-	* more chain options (random, strict, dynamic )
+	* more chain options (random, strict, dynamic)
 	* configurable timeout for TCP connect.
 	* configurable timeout for TCP read.
 	* INSTALL file (explains how to install properly)
